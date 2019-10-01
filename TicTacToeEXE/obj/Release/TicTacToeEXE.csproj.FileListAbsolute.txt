@@ -1,0 +1,6 @@
+C:\Users\Luke\source\repos\TicTacToeEXE\bin\Release\TicTacToeEXE.exe.config
+C:\Users\Luke\source\repos\TicTacToeEXE\bin\Release\TicTacToeEXE.exe
+C:\Users\Luke\source\repos\TicTacToeEXE\bin\Release\TicTacToeEXE.pdb
+C:\Users\Luke\source\repos\TicTacToeEXE\obj\Release\TicTacToeEXE.csproj.CoreCompileInputs.cache
+C:\Users\Luke\source\repos\TicTacToeEXE\obj\Release\TicTacToeEXE.exe
+C:\Users\Luke\source\repos\TicTacToeEXE\obj\Release\TicTacToeEXE.pdb
