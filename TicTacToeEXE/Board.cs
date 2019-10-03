@@ -1,5 +1,5 @@
 ﻿using System;
-namespace TicTacToeEXE
+namespace TicTacToe
 {
     public class Board
     {
@@ -57,7 +57,7 @@ namespace TicTacToeEXE
                 return true;
             else if (Tiles[0, 0].Equals("X") && Tiles[1, 1].Equals("X") && Tiles[2, 2].Equals("X"))
                 return true;
-            else if (Tiles[0, 2].Equals("X") && Tiles[1, 1].Equals("O") && Tiles[0, 2].Equals("O"))
+            else if (Tiles[0, 2].Equals("X") && Tiles[1, 1].Equals("X") && Tiles[2, 0].Equals("X"))
                 return true;
             else if (Tiles[0, 0].Equals("O") && Tiles[0, 1].Equals("O") && Tiles[0, 2].Equals("O"))
                 return true;
@@ -73,7 +73,7 @@ namespace TicTacToeEXE
                 return true;
             else if (Tiles[0, 0].Equals("O") && Tiles[1, 1].Equals("O") && Tiles[2, 2].Equals("O"))
                 return true;
-            else if (Tiles[0, 2].Equals("O") && Tiles[1, 1].Equals("O") && Tiles[0, 2].Equals("O"))
+            else if (Tiles[0, 2].Equals("O") && Tiles[1, 1].Equals("O") && Tiles[2, 0].Equals("O"))
                 return true;
             else
                 return false;
